@@ -1,0 +1,1 @@
+I am interested in taking DATA602 because I want to improve my practical data science skills, especially in Python, data analysis, and machine learning. I also want to become more familiar with tools such as Jupyter, GitHub, Google Colab, and PyTorch.
